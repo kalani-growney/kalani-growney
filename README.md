@@ -32,3 +32,11 @@ An iOS app for logging work and tracking progress, live on the App Store with Ca
 ---
 
 My repos are private. Case studies live on [my portfolio](https://kalanigrowney.com), and code is available on request.
+<br>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,nextjs,ts,tailwind,react,vercel,vscode" alt="Skills" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" height="48" />
+</p>
